@@ -14,18 +14,27 @@ date: 2021-12-13 00:18 +0800
     telnet [IP 또는 도메인] [포트]
     telnet naver.com 80
 
+<<<<<<< HEAD
 <br>
 
+=======
+>>>>>>> f8e78a205a7bbbf5b18e8fcb50f4165a1b562cb1
 ### 텔넷 클라이언트 활성화
 
 #### 1. [제어판] -> [프로그램 및 기능 or 프로그램 추가/제거] -> [Windows 기능 켜기/끄기]
 
 ![](/assets/img/99A4663B5BFDF6F921.png)
+<<<<<<< HEAD
 <br>
+=======
+>>>>>>> f8e78a205a7bbbf5b18e8fcb50f4165a1b562cb1
 
 #### 2. [텔넷 클라이언트] 체크 -> [확인]
 
 ![](/assets/img/99DD983E5BFDF72E24.png)
+<<<<<<< HEAD
 <br>
+=======
+>>>>>>> f8e78a205a7bbbf5b18e8fcb50f4165a1b562cb1
 
 참고: [https://extbrain.tistory.com/103](https://extbrain.tistory.com/103) [확장형 뇌 저장소]
