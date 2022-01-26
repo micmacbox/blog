@@ -90,4 +90,4 @@ RTMP는 어도비 플래시 플레이어와 서버 사이의 통신에 이용됩
 - [https://www.html5rocks.com/ko/tutorials/webrtc/infrastructure/](https://www.html5rocks.com/ko/tutorials/webrtc/infrastructure/)
 - [https://juneyr.dev/webrtc-basics](https://juneyr.dev/webrtc-basics)
 - [https://ko.wikipedia.org/wiki/%EC%84%B8%EC%85%98*%EA%B8%B0%EC%88%A0*%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C](https://ko.wikipedia.org/wiki/%EC%84%B8%EC%85%98_%EA%B8%B0%EC%88%A0_%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
-- https://medium.com/@hyun.sang/webrtc-webrtc%EB%9E%80-43df68cbe511
+- [https://medium.com/@hyun.sang/webrtc-webrtc%EB%9E%80-43df68cbe511](https://medium.com/@hyun.sang/webrtc-webrtc%EB%9E%80-43df68cbe511)
