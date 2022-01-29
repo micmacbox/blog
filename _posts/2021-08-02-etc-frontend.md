@@ -9,3 +9,6 @@ date: 2022-01-26 15:32 +0800
 
 1. 브라우저 렌더링 원리
    https://d2.naver.com/helloworld/59361
+
+2. 호이스팅이란?
+   https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html
