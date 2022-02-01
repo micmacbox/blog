@@ -137,4 +137,4 @@ w3school에서 가져온 html DOM tree of objects
 MDN DOM: [_https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction_](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 React Virtual DOM: [_https://reactjs.org/docs/faq-internals.html#what-is-the-virtual-dom_](https://reactjs.org/docs/faq-internals.html#what-is-the-virtual-dom)
 React Reconciliation: [_https://reactjs.org/docs/reconciliation.html_](https://reactjs.org/docs/reconciliation.html)
-민동준님 블로그: [_Virtual DOM(가상돔, 버추얼돔)이란?_](https://dj-min43.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-virtual-dom-%EA%B0%80%EC%83%81%EB%8F%94-%EB%B2%84%EC%B6%94%EC%96%BC%EB%8F%94-%EC%9D%B4%EB%9E%80-359c28112048)
+리액트: Virtual DOM(가상돔, 버추얼돔)이란?: [_https://dj-min43.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-virtual-dom-%EA%B0%80%EC%83%81%EB%8F%94-%EB%B2%84%EC%B6%94%EC%96%BC%EB%8F%94-%EC%9D%B4%EB%9E%80-359c28112048_](https://dj-min43.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-virtual-dom-%EA%B0%80%EC%83%81%EB%8F%94-%EB%B2%84%EC%B6%94%EC%96%BC%EB%8F%94-%EC%9D%B4%EB%9E%80-359c28112048)
