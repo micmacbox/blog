@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 얕은복사와 깊은복사
-categories: etc
+categories: javascript
 tags: [javascript]
 date: 2021-01-20 15:32 +0800
 # toc: true

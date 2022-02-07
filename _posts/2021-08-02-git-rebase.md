@@ -1,7 +1,7 @@
 ---
 layout: post
 title: git rebase
-categories: etc
+categories: git
 tags: [git]
 date: 2022-01-26 15:32 +0800
 # toc: true

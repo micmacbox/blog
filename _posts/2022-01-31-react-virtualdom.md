@@ -1,8 +1,8 @@
 ---
 layout: post
 title: React Virtual Dom
-categories: etc
-tags: [javascript]
+categories: react
+tags: [javascript, react]
 date: 2021-01-31 15:32 +0800
 # toc: true
 ---
