@@ -37,3 +37,14 @@ revert: 원하는 커밋을 되돌리며 로그를 남기는 것 (커밋을 되�
 
     // --force or -f 옵션: reset 후 원격 저장소에 push (혼자 쓸 경우에만 쓰기)
     git push -f origin [브랜치명]
+
+## revert
+
+revert 명령어는 이미 서버에 push를 해버렸을 경우 주로 사용되며 revert에 대한 커밋 메시지가 추가된다.
+
+    // 해시id에 해당하는 내용만 삭제되며 커밋메시지에 해당 커밋이 삭제된 이력이 남는다
+    git revert [해시id]
+    // --no-commit 옵션: revert한 결과를 커밋않고 stage 상태로 유지.
+    git revert --no-commit [해시id]
+    // 여러개 커밋 되돌리기
+    git revert [해시id]..[해시id]
