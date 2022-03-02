@@ -14,7 +14,9 @@ reset과 revert 사용법과 차이점을 정리해봅니다.
 ## git revert와 reset의 차이점
 
 원격 저장소에서 다른 사람과의 협업 유(revert)무(reset)에 따라서 달라진다.
+
 reset: 되돌리고 싶은 커밋의 시점으로 이동하는것 (HEAD의 위치 변경)
+
 revert: 원하는 커밋을 되돌리며 로그를 남기는 것 (커밋을 되돌리는 커밋을 만듦)
 
 ## reset
