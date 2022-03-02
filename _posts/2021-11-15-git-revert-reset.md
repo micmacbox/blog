@@ -3,7 +3,7 @@ layout: post
 title: git revert vs reset
 categories: git
 tags: [git]
-date: 2021-03-02 01:54 +0800
+date: 2022-03-02 01:54 +0800
 # toc: true
 ---
 
