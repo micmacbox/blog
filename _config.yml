@@ -37,7 +37,7 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: joo
+  name: J-me
   links:
     - https://twitter.com/it_margot
     - https://github.com/micmacbox
@@ -58,6 +58,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: joo
+  name: J-me
   url: https://github.com/cooingcooing
   email: beloved930223@gmail.com
