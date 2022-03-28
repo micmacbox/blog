@@ -2,8 +2,8 @@
 layout: post
 title: 알고리즘 정리
 categories: algorithm
-tags: [algorithm]
-date: 2021-03-28 15:32 +0800
+tags: [etc]
+date: 2022-03-28 15:32 +0800
 # toc: true
 ---
 
