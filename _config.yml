@@ -1,7 +1,7 @@
 # Setup
 title: follow me!
 description: front end 개발 블로그
-url: https://seo-joo.github.io/
+url: https://micmacbox.github.io/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -37,10 +37,10 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: joo
+  name: j-me
   links:
     - https://twitter.com/it_margot
-    - https://github.com/seo-joo
+    - https://github.com/micmacbox
 google_site_verification: xxxxx
 lang: ko
 
@@ -58,6 +58,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: joo
-  url: https://github.com/seo-joo
+  name: j-me
+  url: https://github.com/micmacbox
   email: beloved930223@gmail.com

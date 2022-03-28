@@ -5,7 +5,7 @@ title: About
 
 <br/>
 
-**jOO** <span>Frontend Engineer</span>
+**j-me** <span>Frontend Engineer</span>
 
 <span> @R-Support </span>
 
