@@ -7,7 +7,7 @@ date: 2022-03-28 15:32 +0800
 # toc: true
 ---
 
-1.  섬 둘레 구하기
+## 섬 둘레 구하기
 
 ```
     function solution(maps)
